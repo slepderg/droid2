@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Среднее арифметическое</string>
+    <string name="name">Среднее арифметическое</string>
+    <string name="hint_1">Введите первое число</string>
+    <string name="hint_2">Введите второе число</string>
+    <string name="hint_3">Результат</string>
+    <string name="hint_4">Введите третье число</string>
+    <string name="sl"> Рассчитать </string>
+</resources>
